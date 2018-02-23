@@ -1,7 +1,7 @@
 ### **Домашнее задание 3-4**
 * #### **Ссылка на гугл форму:** https://docs.google.com/forms/d/e/1FAIpQLSd_G5ZUPeBwiErPYU7PkjJ7tKqBJgDBlOAXGNKQzCv0WJszYw/viewform
 * #### **Ссылка на гугл таблицу:** https://docs.google.com/spreadsheets/d/17X1AFViAPtRswp5neJWKh5bCUjolsn8VtAvzM41V7AE/edit#gid=246678242
-### **Информация об опросе:**
+#### **Информация об опросе:**
 **Название опроса:** **"На сколько здоровый образ жизни вы ведёте?"**
 
 **Представленный опрос включает в себя 7 основных блоков:**
